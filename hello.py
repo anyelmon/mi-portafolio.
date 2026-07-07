@@ -1,1 +1,1 @@
-print("Hello this is Anyel and this is my portfolio") 
+No se puede inicializar el dispositivo PRN
