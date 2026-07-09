@@ -1,0 +1,2 @@
+Objetives: scanme.nmap.org
+Open ports: [22, 53, 80, 998]
