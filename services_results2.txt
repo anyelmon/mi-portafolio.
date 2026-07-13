@@ -1,0 +1,10 @@
+Objective: scanme.nmap.org
+
+Port 22: | ssh | 
+Port 53: | domain | 
+Port 80: | http | HTTP/1.1 400 Bad Request
+Date: Mon, 13 Jul 2026 20:24:10 GMT
+Server: Apache/2.4.7 (Ubuntu)
+Connection: close
+Content-Type: text/html; charset=iso-8859-1
+Port 998: | Unknown | No banner

@@ -1,0 +1,10 @@
+Objetive: scanme.nmap.org
+
+Port 22: | ssh | SSH-2.0-OpenSSH_6.6.1p1 Ubuntu-2ubuntu2.13
+Port 53: | domain | 
+Port 80: | http | HTTP/1.1 400 Bad Request
+Date: Fri, 10 Jul 2026 05:30:00 GMT
+Server: Apache/2.4.7 (Ubuntu)
+Connection: close
+Content-Type: text/html; charset=iso-8859-1
+Port 998: | Unknown | No banner
