@@ -1,0 +1,5 @@
+Objective: scanme.nmap.org
+
+Port 22: | ssh
+Port 53: | domain
+Port 80: | http
