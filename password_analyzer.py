@@ -3,6 +3,7 @@ import re
 def password_analyzer(password):
     score = 0
     problems = []
+    weak_passwords = ["password", "123456", "qwerty", "abc123", "admin", "letmein", "welcome", "monkey", "login", "passw0rd"]
 
     if len(password) >= 8:
         score += 1
@@ -30,6 +31,8 @@ def password_analyzer(password):
         problems.append("No special characters")
 
     if score <= 2:
+        level = "WEAK"
+    elif password.lower() in weak_passwords:
         level = "WEAK"
     elif score <= 4:
         level = "MEDIUM"
