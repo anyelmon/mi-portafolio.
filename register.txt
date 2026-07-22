@@ -1,0 +1,124 @@
+2026-07-20 10:54:17,364 - Key: s
+2026-07-20 10:54:17,368 - Key: o
+2026-07-20 10:54:17,372 - Key: d
+2026-07-20 10:54:17,473 - Key: f
+2026-07-20 10:54:17,578 - Key: k
+2026-07-20 10:54:17,581 - Key: d
+2026-07-20 10:54:17,653 - Key: s
+2026-07-20 10:54:17,779 - Key: f
+2026-07-20 10:54:17,832 - Key: d
+2026-07-20 10:54:17,962 - Key: s
+2026-07-20 10:54:19,295 - Special Key: Key.esc
+10:49:54.105 - Key pressed: e
+10:49:54.418 - Key pressed: l
+10:49:54.602 - Special key pressed: Key.space
+10:49:54.702 - Key pressed: g
+10:49:54.816 - Key pressed: u
+10:49:54.916 - Key pressed: e
+10:49:54.956 - Key pressed: s
+10:49:55.039 - Key pressed: o
+10:49:55.170 - Special key pressed: Key.space
+10:49:55.411 - Key pressed: p
+10:49:55.504 - Key pressed: e
+10:49:55.546 - Key pressed: r
+10:49:55.612 - Key pressed: o
+10:49:55.765 - Special key pressed: Key.space
+10:49:55.843 - Key pressed: q
+10:49:55.971 - Key pressed: u
+10:49:56.062 - Key pressed: e
+10:49:56.141 - Special key pressed: Key.space
+10:49:56.312 - Key pressed: v
+10:49:56.378 - Key pressed: a
+10:49:56.487 - Key pressed: i
+10:49:56.557 - Key pressed: n
+10:49:56.662 - Key pressed: a
+10:49:56.763 - Special key pressed: Key.space
+10:49:56.929 - Key pressed: m
+10:49:57.026 - Key pressed: a
+10:49:57.126 - Special key pressed: Key.space
+10:49:57.349 - Key pressed: p
+10:49:57.441 - Key pressed: s
+10:49:57.594 - Key pressed: i
+10:49:57.739 - Key pressed: c
+10:49:57.852 - Key pressed: o
+10:49:58.018 - Key pressed: p
+10:49:58.110 - Key pressed: a
+10:49:58.245 - Key pressed: t
+10:49:58.316 - Key pressed: a
+10:49:58.412 - Special key pressed: Key.space
+10:49:58.521 - Key pressed: e
+10:49:58.638 - Key pressed: n
+10:49:58.678 - Key pressed: t
+10:49:58.845 - Key pressed: o
+10:49:58.925 - Key pressed: n
+10:49:58.945 - Key pressed: c
+10:49:59.151 - Key pressed: e
+10:49:59.212 - Key pressed: s
+10:49:59.335 - Special key pressed: Key.space
+10:49:59.479 - Key pressed: a
+10:49:59.619 - Key pressed: h
+10:49:59.623 - Key pressed: j
+10:49:59.811 - Key pressed: o
+10:49:59.899 - Key pressed: r
+10:49:59.947 - Key pressed: a
+10:50:00.008 - Special key pressed: Key.space
+10:50:00.192 - Key pressed: m
+10:50:00.263 - Key pressed: i
+10:50:00.407 - Key pressed: s
+10:50:00.503 - Key pressed: m
+10:50:00.603 - Key pressed: o
+10:50:00.844 - Special key pressed: Key.space
+10:50:01.264 - Key pressed: s
+10:50:01.316 - Key pressed: e
+10:50:01.474 - Special key pressed: Key.space
+10:50:01.557 - Key pressed: e
+10:50:01.653 - Key pressed: s
+10:50:01.815 - Key pressed: t
+10:50:01.902 - Key pressed: a
+10:50:02.051 - Special key pressed: Key.space
+10:50:02.165 - Key pressed: r
+10:50:02.204 - Key pressed: e
+10:50:02.515 - Key pressed: g
+10:50:02.642 - Key pressed: i
+10:50:02.726 - Key pressed: s
+10:50:02.847 - Key pressed: t
+10:50:02.996 - Key pressed: r
+10:50:03.044 - Key pressed: a
+10:50:03.206 - Key pressed: n
+10:50:03.328 - Key pressed: d
+10:50:03.386 - Key pressed: o
+10:50:03.517 - Special key pressed: Key.space
+10:50:03.613 - Key pressed: t
+10:50:03.744 - Key pressed: o
+10:50:03.849 - Key pressed: d
+10:50:03.915 - Key pressed: o
+10:50:04.020 - Special key pressed: Key.space
+10:50:04.121 - Key pressed: l
+10:50:04.286 - Key pressed: o
+10:50:04.400 - Special key pressed: Key.space
+10:50:04.479 - Key pressed: q
+10:50:04.575 - Key pressed: u
+10:50:04.632 - Key pressed: e
+10:50:04.733 - Special key pressed: Key.space
+10:50:04.890 - Key pressed: y
+10:50:04.938 - Key pressed: o
+10:50:05.074 - Special key pressed: Key.space
+10:50:05.153 - Key pressed: e
+10:50:05.201 - Key pressed: s
+10:50:05.376 - Key pressed: c
+10:50:05.507 - Key pressed: r
+10:50:05.642 - Key pressed: i
+10:50:05.752 - Key pressed: b
+10:50:05.816 - Key pressed: o
+10:50:05.936 - Special key pressed: Key.space
+10:50:06.032 - Key pressed: l
+10:50:06.229 - Key pressed: o
+10:50:06.414 - Key pressed: o
+10:50:06.552 - Key pressed: l
+10:50:06.727 - Key pressed: o
+10:50:06.859 - Key pressed: l
+10:50:07.016 - Key pressed: o
+10:50:07.160 - Key pressed: l
+10:50:07.305 - Key pressed: o
+10:50:07.545 - Special key pressed: Key.enter
+10:50:08.499 - Special key pressed: Key.esc
